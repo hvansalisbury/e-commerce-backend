@@ -23,7 +23,6 @@ Product.belongsToMany(Tags, {
   // as: 'location_travellers'
 });
 
-
 // Tags belongToMany Products (through ProductTag)
 Tag.belongsToMany(Product, {
   through: {
@@ -32,8 +31,6 @@ Tag.belongsToMany(Product, {
   },
   // as: 'location_travellers'
 });
-
-
 
 module.exports = {
   Product,
