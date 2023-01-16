@@ -1,3 +1,5 @@
+// connect to db that we will be where we make our api requests
+
 require('dotenv').config();
 
 const Sequelize = require('sequelize');
