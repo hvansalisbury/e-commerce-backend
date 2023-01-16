@@ -25,7 +25,7 @@ Once installed, open Insomnia. Choose between a GET, POST, PUT, or DELETE reques
 
 ## Walkthrough
 
-[Walkthrough Video](https://drive.google.com/file/d/1cZC1lUASATnJiAL5DQ4mdKAk30CuGauY/view)
+[Walkthrough Video](https://drive.google.com/file/d/1Sxu-Ysj3gV1cJ9yb2QysEnKSNsulF1n_/view)
 
 
 ## License
